@@ -1,2 +1,1 @@
 # Mouse_poisition
-k
